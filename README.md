@@ -1,1 +1,1 @@
-# video-processing-examples
+# Video processing in C using FFMPEG library
