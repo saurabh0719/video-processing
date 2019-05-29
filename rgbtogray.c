@@ -1,8 +1,4 @@
-//
-// Video processing example using FFmpeg
-// Written by Ted Burke - last updated 12-2-2017
-//
- 
+
 #include <stdio.h>
  
 // Video resolution
