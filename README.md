@@ -1,6 +1,6 @@
 # Video processing in C using FFMPEG library
 ### To install FFmpeg on linux
-Sudo apt-get install ffmpeg
+Sudo apt-get install ffmpeg.
 [FFmpeg Documentation](https://ffmpeg.org/ffmpeg.html)
 ### Methods used
 1. [RGB to grayscale](https://www.tutorialspoint.com/dip/grayscale_to_rgb_conversion.htm) 
